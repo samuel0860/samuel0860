@@ -68,10 +68,15 @@
 
 ###
 
-<h3 align="left">🐍 Snake</h3>
-
+## 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://raw.githubusercontent.com/samuel0860/samuel0860/output/snake.svg" alt="Snake animation" />
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuel0860&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel0860&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=samuel0860&theme=tokyonight&hide_border=true)
+
 </div>
 
 ###
