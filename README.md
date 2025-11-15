@@ -78,7 +78,7 @@
 <div align="center">
 
   <a href="https://github.com/samuel0860/-API-CRUD-com-Node.js" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860repo=-API-CRUD-com-Node.js&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=-API-CRUD-com-Node.js&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/samuel0860/teamtrack-system" target="_blank">
