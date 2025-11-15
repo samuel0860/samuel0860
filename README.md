@@ -1,4 +1,8 @@
-<h2 align="left">Samuelsales </h2>
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">👋 Olá, eu sou Samuel   <br><br>💻  Desenvolvedor Full-Stack, apaixonado por criar soluções que realmente funcionem  <br><br>🌱 Atualmente explorando o Back-End com Node.js e aprendendo a cada projeto  <br><br>🚀 Meu foco é crescer como desenvolvedor Full-Stack, contribuindo com projetos que façam a diferença  <br><br>📫 Email para contato: Muelsales08@gmail.com</p>
 
 ###
 
