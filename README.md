@@ -58,17 +58,9 @@
 
 ###
 
-<h3 align="left">🔥 Minhas estatísticas</h3>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel0860&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=true" height="197" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel0860&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph" />
-</div>
-
 ###
 
-## 📊 Estatísticas do GitHub
+## 🔥 Minhas estatísticas
 <div align="center">
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuel0860&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
