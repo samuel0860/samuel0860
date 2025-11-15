@@ -78,15 +78,15 @@
 <div align="center">
 
   <a href="https://github.com/samuel0860/-API-CRUD-com-Node.js" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860repo=-API-CRUD-com-Node.js&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860repo=-API-CRUD-com-Node.js&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/samuel0860/teamtrack-system" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=teamtrack-system&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=teamtrack-system&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/samuel0860/Gerador-de-Senhas-" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=Gerador-de-Senhas-&theme=merko" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=Gerador-de-Senhas-&theme=tokyonight" />
   </a>
 
 </div>
