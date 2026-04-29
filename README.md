@@ -33,7 +33,7 @@
 <p align="left">
 - 🎓 Graduado Análise e Desenvolvimento de Sistemas<br>
 - ✍🏽 Formação em Desenvolvimento Web FullStak pelo Programa Programadores do Amanhã<br>
-- 📚 Apaixonado por tecnologia<br>
+- 💼 Dev na Bartofil | Full Stack<br>
 - ⚡ Em constante aprendizado
 </p>
 
