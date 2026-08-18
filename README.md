@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a2f2a&height=200&section=header&text=Samuel%20Sales&fontSize=50&fontColor=8fceb5&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=c9d1d9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a2f2a&height=150&section=header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=8FCEB5&center=true&vCenter=true&width=500&lines=Dev+na+Bartofil+%7C+Full+Stack;Laravel+%2B+JS+%2B+Docker+%2B+Oracle;Sempre+evoluindo+e+criando+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+<h1>Samuel Sales</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=8FCEB5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Dev+na+Bartofil+%7C+Full+Stack;Laravel+%2B+JS+%2B+Docker+%2B+Oracle;Sempre+evoluindo+e+criando+solu%C3%A7%C3%B5es" alt="Typing SVG" />
 
 <br><br>
 
@@ -23,13 +25,12 @@
 ## 👋 Sobre mim
 
 <ul>
-  
 <li>🎓 Graduado em Análise e Desenvolvimento de Sistemas</li>
 <li>✍🏽 Formação em Desenvolvimento Web FullStack — Programa Programadores do Amanhã</li>
 <li>💼 Dev na Bartofil | Full Stack</li>
 <li>⚡ Em constante aprendizado</li>
-
 </ul>
+
 
 <br>
 
