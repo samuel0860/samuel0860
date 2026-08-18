@@ -22,18 +22,14 @@
 
 ## 👋 Sobre mim
 
-<table align="center">
-<tr>
-<td>
 
-🎓 &nbsp;Graduado em Análise e Desenvolvimento de Sistemas
-✍🏽 &nbsp;Formação em Desenvolvimento Web FullStack — Programa Programadores do Amanhã
-💼 &nbsp;Dev na Bartofil | Full Stack
-⚡ &nbsp;Em constante aprendizado
+## 👋 Sobre mim
 
-</td>
-</tr>
-</table>
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- ✍🏽 Formação em Desenvolvimento Web FullStack — Programa Programadores do Amanhã
+- 💼 Dev na Bartofil | Full Stack
+- ⚡ Em constante aprendizado
+
 
 <br>
 
