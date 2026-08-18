@@ -1,20 +1,16 @@
 <div align="center">
-  <h2>🌐Vamos nos conectar?<h2><br>
-  <a href="https://www.linkedin.com/in/samuel-sales-a02a5726a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="muelsales08@gmail.com="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-   <a href="https://www.instagram.com/samuel.sales.7315/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" >
+
+<h2>🌐 Vamos nos conectar?</h2><br>
+
+<a href="https://www.linkedin.com/in/samuel-sales-a02a5726a" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
-
-
-</div>
-
-###
-
+<a href="mailto:Muelsales08@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
+<a href="https://www.instagram.com/samuel.sales.7315/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" />
+</a>
 
 </div>
 
@@ -31,8 +27,8 @@
 <h3 align="left">👩‍💻 Sobre mim</h3>
 
 <p align="left">
-- 🎓 Graduado Análise e Desenvolvimento de Sistemas<br>
-- ✍🏽 Formação em Desenvolvimento Web FullStak pelo Programa Programadores do Amanhã<br>
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas<br>
+- ✍🏽 Formação em Desenvolvimento Web FullStack pelo Programa Programadores do Amanhã<br>
 - 💼 Dev na Bartofil | Full Stack<br>
 - ⚡ Em constante aprendizado
 </p>
@@ -42,12 +38,11 @@
 <h3 align="left">🛠 Ferramentas que utilizo</h3>
 
 <div align="left">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" height="50" alt="Larvel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" height="50" alt="Laravel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="50" alt="Oracle Logo" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="50" alt="Oracle logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
   <img width="12" />
@@ -60,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo" />
-  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
@@ -69,14 +63,26 @@
 
 ###
 
+## 🏆 Troféus
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=samuel0860&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
 ###
 
 ## 🔥 Minhas estatísticas
+
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuel0860&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel0860&layout=compact&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=samuel0860&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel0860&layout=compact&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+</table>
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=samuel0860&theme=tokyonight&hide_border=true)
 
@@ -91,13 +97,19 @@
   <a href="https://github.com/samuel0860/-API-CRUD-com-Node.js" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=-API-CRUD-com-Node.js&theme=tokyonight" />
   </a>
-
   <a href="https://github.com/samuel0860/teamtrack-system" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=teamtrack-system&theme=tokyonight" />
   </a>
-
   <a href="https://github.com/samuel0860/Gerador-de-Senhas-" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=Gerador-de-Senhas-&theme=tokyonight" />
   </a>
+
+</div>
+
+###
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=samuel0860&color=8fceb5&style=flat)
 
 </div>
