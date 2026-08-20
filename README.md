@@ -80,38 +80,3 @@
 
 <br>
 
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=samuel0860&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br>
-
-## 🗂️ Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/samuel0860/-API-CRUD-com-Node.js" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=-API-CRUD-com-Node.js&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8fceb5" width="30%" />
-</a>
-<a href="https://github.com/samuel0860/teamtrack-system" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=teamtrack-system&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8fceb5" width="30%" />
-</a>
-<a href="https://github.com/samuel0860/Gerador-de-Senhas-" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel0860&repo=Gerador-de-Senhas-&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8fceb5" width="30%" />
-</a>
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2f2a,100:0D1117&height=100&section=footer" />
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=samuel0860&color=8fceb5&style=flat-square&label=Visitas+ao+perfil)
-
-</div>
